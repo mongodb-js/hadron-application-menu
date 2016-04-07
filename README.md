@@ -1,11 +1,6 @@
 # hadron-application-menu [![travis][travis_img]][travis_url] [![npm][npm_img]][npm_url]
 
-> Atom&#x27;s application-menu class as a standalone module.
-
-## Example
-
-```javascript
-```
+> Atom's application-menu class as a standalone module.
 
 ## License
 
