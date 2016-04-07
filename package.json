@@ -1,7 +1,7 @@
 {
   "name": "hadron-application-menu",
   "description": "Atom's application-menu class as a standalone module.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "fmt": "mongodb-js-fmt",
     "test": "electron-mocha",
