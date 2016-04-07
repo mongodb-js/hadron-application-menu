@@ -1,6 +1,6 @@
 # hadron-application-menu [![travis][travis_img]][travis_url] [![npm][npm_img]][npm_url]
 
-> Atom's application-menu class as a standalone module.
+> Atom's [`ApplicationMenu`](https://github.com/atom/atom/blob/master/src/browser/application-menu.coffee) class as a standalone module.
 
 ## License
 
